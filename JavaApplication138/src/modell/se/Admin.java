@@ -14,10 +14,10 @@ public class Admin {
     private int age;
     
     public static void main(String[] args) {
-        System.out.println("HEJ");
-        int myVars = 1336;
-        System.out.println(myVars);
+
+        System.out.println("Hello world!");
+        int myVar = 1337;
+        System.out.println(myVar);
     }
-    
     
 }
