@@ -13,4 +13,11 @@ public class Admin {
     public String name, PN, last_name, phone_nummer;
     private int age;
     
+    public static void main(String[] args) {
+        System.out.println("HEJ");
+        int myVars = 1336;
+        System.out.println(myVars);
+    }
+    
+    
 }
