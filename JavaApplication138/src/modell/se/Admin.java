@@ -16,6 +16,7 @@ public class Admin {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         int myVar = 1337;
+        System.out.println(myVar);
     }
     
 }
