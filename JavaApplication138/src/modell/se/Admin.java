@@ -10,7 +10,7 @@ package modell.se;
  * @author aysen
  */
 public class Admin {
-    private String name, PN, last_name, phone_nummer;
+    public String name, PN, last_name, phone_nummer;
     private int age;
     
 }
